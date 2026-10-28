@@ -48,7 +48,9 @@ Date:   Wed Oct 28 22:31:41 2026 +0600
     Сделать push папки ansible
 ```
 
-### 2 часть
+## БЛОК 3
+
+### 1 часть
 
 Строка `HEALTHCHECK CMD wget -q0-http://localhost/ || exit 1`:
 ![alt text](image-5.png)
@@ -59,7 +61,7 @@ Date:   Wed Oct 28 22:31:41 2026 +0600
 Вывод команды `git branch -d feature/healthcheck`:
 ![alt text](image-4.png)
 
-### 3 часть
+### 2 часть
 
 Ошибка слияния (конфликт):
 ![alt text](image-6.png)
@@ -69,3 +71,19 @@ Date:   Wed Oct 28 22:31:41 2026 +0600
 
 Вывод команд `git pull` и `git log --oneline`:
 ![alt text](image-8.png)
+
+
+
+### 3 часть
+Добавлена задача установки curl в playbook, чтобы утилита была доступна на серверах
+
+Выводы команд git branch -a и git fetch --prune
+![alt text](image-9.png)
+
+
+## БЛОК 4
+
+### 1 часть
+
+Страница на  localhost
+![alt text](image-10.png)
