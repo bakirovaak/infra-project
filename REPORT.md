@@ -87,9 +87,3 @@ Date:   Wed Oct 28 22:31:41 2026 +0600
 
 Страница на  localhost
 ![alt text](image-10.png)
-
-## БЛОК 4
-
-### 1 часть
-Результаты изменения комита
-![alt text](image-11.png)
